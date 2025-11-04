@@ -79,7 +79,7 @@
 <ol style="font-size: 18px;">
   <li>
     Clone the repository:
-    <pre><code>git clone https://github.com/Arvind7Goud/Job-portal.git</code></pre>
+    <pre><code>git clone https://github.com/Job-portal.git</code></pre>
   </li>
   <li>
     Navigate to the project directory:
